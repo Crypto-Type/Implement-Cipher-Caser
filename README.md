@@ -26,3 +26,7 @@ if operation in ["encrypt", "decrypt"]:
     print(f"The {operation}ed message: {output_message}")
 else:
     print("Invalid operation selected.")
+
+INPUT = Hello, World!
+ENTER THE DIGIT NUMBER = 3
+SELECT = ENCRYPT
